@@ -1,82 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    header {
-      background: #0073e6;
-      color: #fff;
-      padding: 1rem 0;
-      text-align: center;
-    }
-    nav {
-      display: flex;
-      justify-content: center;
-      background: #333;
-    }
-    nav a {
-      color: #fff;
-      padding: 0.8rem;
-      text-decoration: none;
-    }
-    nav a:hover {
-      background: #555;
-    }
-    .container {
-      max-width: 1100px;
-      margin: auto;
-      padding: 1rem;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #333;
-      color: #fff;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Welcome to My GitHub Page</h1>
-  </header>
-  <nav>
-    <a href="#about">About</a>
-    <a href="#portfolio">Portfolio</a>
-    <a href="#contact">Contact</a>
-  </nav>
-  <div class="container">
-    <section id="about">
-      <h2>About Me</h2>
-      <p>Welcome to my GitHub page! I am a developer passionate about building amazing projects. Explore my portfolio below.</p>
-    </section>
-    <section id="portfolio">
-      <h2>Portfolio</h2>
-      <ul>
-        <li><a href="https://github.com/yourusername/project1">Project 1</a>: A brief description.</li>
-        <li><a href="https://github.com/yourusername/project2">Project 2</a>: A brief description.</li>
-      </ul>
-    </section>
-    <section id="contact">
-      <h2>Contact Me</h2>
-      <p>Email: yourname@example.com</p>
-      <p>GitHub: <a href="https://github.com/yourusername">https://github.com/yourusername</a></p>
-    </section>
-  </div>
-  <footer>
-    <p>&copy; 2024 Your Name. All Rights Reserved.</p>
-  </footer>
-</body>
-</html>
+# Welcome to My GitHub Page
+
+## About Me
+
+I am a final-year Bachelor of Technology student majoring in **Computer Science and Engineering with a specialization in Data Science** at **Pranveer Singh Institute of Technology, Kanpur** (2021-2025). My academic journey has fueled my passion for **data science**, **artificial intelligence**, and **full-stack development**.
+
+---
+
+### Technical Skills
+- **Programming Languages:** Python, C++, C, SQL
+- **Core Concepts:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS)
+- **Web Development:** HTML, CSS, JavaScript, React, Flask
+- **Machine Learning:** Algorithms, Natural Language Processing (NLP), Model Optimization
+
+---
+
+### Projects
+1. **Digit Recognition System**
+   - Implemented a digit classification model using machine learning algorithms.
+   - Technologies: Python, Scikit-learn, TensorFlow
+
+2. **Sentiment Analysis**
+   - Analyzed text data to classify sentiments using Natural Language Processing (NLP) techniques.
+   - Technologies: Python, NLTK, Pandas
+
+3. **Face Smile Detection System**
+   - Built a system to detect smiles in images using machine learning and image processing.
+   - Technologies: Python, OpenCV, Scikit-learn
+
+---
+
+### Certifications & Internships
+- **Infosys Springboard**
+- **EduVitae**
+- **Udemy**
+
+These experiences have equipped me with industry-relevant skills and the ability to adapt to fast-evolving technological landscapes.
+
+---
+
+### Career Goals
+As I prepare for the next phase of my career, I am eager to:
+- Explore opportunities in **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
+- Work with cutting-edge technologies to build intelligent systems for industries like finance, healthcare, and technology.
+- Collaborate with forward-thinking teams on impactful projects.
+
+Long-term, I aim to play a pivotal role in developing AI-driven solutions that solve real-world problems and improve lives on a global scale.
+
+---
+
+Thank you for visiting my GitHub page. Let's innovate and build the future together!
+
